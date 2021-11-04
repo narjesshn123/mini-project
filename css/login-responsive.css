@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .login-form__wrapper{
+        padding: 4rem 2rem;
+    }
+    .login-form__left-side{
+        width: 100%;
+    }
+    .login-form__right-side{
+        display: none;
+    }
+}
